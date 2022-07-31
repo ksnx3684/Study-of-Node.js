@@ -12,7 +12,7 @@ Node.js에 대한 학습 내용을 정리하는 repository입니다.
 - [생활코딩](https://opentutorials.org/course/3332)
 
 **목차**
-- 설치 및 초기 Setting
-- 웹 서버 구동
-- URL
-- File 읽기
+01. 설치 및 초기 Setting
+02. 웹 서버 구동
+03. URL
+04. File 읽기
